@@ -1,5 +1,7 @@
 # CAPACITANCE-METER
 
+PROPSAL LINK : https://docs.google.com/presentation/d/1cvAsfaCg6PYr7bHXBU-9ZZT8K27ZkwYQ/edit#slide=id.p2
+
 Range of capacitance meter : 0.1uF - 4F
 Principle of working : Charging and Discharging of capacitor
                      A capacitor takes one time constant to charge to approximately 63.2 % of its full charge.So, by measuring the time taken to charge and having the                        resistance value used to charge the capacitor , we can get the value of capacitance by dividing them.
