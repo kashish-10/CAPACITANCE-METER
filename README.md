@@ -1,6 +1,6 @@
 # CAPACITANCE-METER
 
-PROPSAL LINK : https://docs.google.com/presentation/d/1cvAsfaCg6PYr7bHXBU-9ZZT8K27ZkwYQ/edit#slide=id.p2
+PROPOSAL LINK : https://docs.google.com/presentation/d/1cvAsfaCg6PYr7bHXBU-9ZZT8K27ZkwYQ/edit#slide=id.p2
 
 Range of capacitance meter : 0.1uF - 4F
 Principle of working : Charging and Discharging of capacitor
